@@ -1,0 +1,12 @@
+.container {
+    text-align: center;
+    border: solid 4px;
+    margin: 0 auto;
+    width: 50%;
+    border-radius: 12px;
+}
+
+button {
+    background-color: black;
+    color: white;
+}
